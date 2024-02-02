@@ -1,0 +1,5 @@
+<resources>
+    <!-- TODO Change this app_name to something more relatable! -->
+    <string name="app_name">My Application</string>
+    <!-- TODO Add string resources here for X and Y axis slider titles -->
+</resources>
