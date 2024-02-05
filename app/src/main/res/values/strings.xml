@@ -1,5 +1,7 @@
 <resources>
-    <!-- TODO Change this app_name to something more relatable! -->
-    <string name="app_name">My Application</string>
-    <!-- TODO Add string resources here for X and Y axis slider titles -->
+    <string name="app_name">CoordPlot v. 2.0</string>
+    <string name="x_coord_title">X Axis  </string>
+    <string name="y_coord_title">Y Axis  </string>
+    <string name="title">Homework # 2</string>
+    <string name="by_julio">by: Julio Alfaro</string>
 </resources>

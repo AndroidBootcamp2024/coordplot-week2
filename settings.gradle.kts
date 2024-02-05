@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-// TODO replace "My Application" with a better name for the project.
-rootProject.name = "My Application"
+
+rootProject.name = "CoordPlot v.2.0"
 include(":app")
